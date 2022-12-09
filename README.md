@@ -39,3 +39,44 @@ TENIENDO EN CUENTA TODO LO VISTO EN CLASE*
       4. USO DE BOTON AMBURGUESA EN MOVIL Y DE TODO EN PANTALLA EN PC 
       5. LAPAGINA ES RESPONSIVE 
       6. SE UTILIZARON WIDGETS COMO BUILD Y FIREBASE QUE SERAN EXPLICADOS MAS ADELANTE
+
+**WIDGETS UTILIZADOS 
+* BUILD 
+* FIREBASE 
+* DIFERENTES TIPOS DE BOTONES 
+* MEDIA QUERY 
+* FUTURE 
+* DIFERENTES TIPOS DE WIDGETS DE FANCY
+* ENTRE OTROS 
+
+<br>
+<br>
+<br>
+<br>
+**LIBRERIAS Y DEPENDENCIAS UTILIZADAS EN EL PROYECTO <br>
+* cupertino_icons
+* <br>
+* 
+* firebase_core
+* <br>
+* firebase_auth
+* <br>
+* cloud_firestore
+* <br>
+* provider
+* <br>
+* fancy_dialog
+* <br>
+* font_awesome_flutter
+* <br>
+* http
+* <br>
+* url_launcher
+* <br>
+* google_fonts
+* <br>
+
+
+
+
+
